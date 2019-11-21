@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## This is a test for ruby tutorial
 
@@ -15,5 +15,3 @@ published: false
     
 
 ![Icon-1-1_ajftop.png]({{site.baseurl}}/_posts/Icon-1-1_ajftop.png)
-
-
