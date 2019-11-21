@@ -14,5 +14,5 @@ published: true
     end
     
 
-![Minimalist Decor for Small Living Rooms.jpeg]({{site.baseurl}}/_posts/Minimalist Decor for Small Living Rooms.jpeg)
+![Minimalist Decor for Small Living Rooms.jpeg]({{site.baseurl}}/images/Minimalist Decor for Small Living Rooms.jpeg)
 
