@@ -15,4 +15,3 @@ published: true
     
 
 ![Minimalist Decor for Small Living Rooms.jpeg]({{site.baseurl}}/images/Minimalist Decor for Small Living Rooms.jpeg)
-
