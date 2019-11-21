@@ -14,4 +14,5 @@ published: true
     end
     
 
-![Icon-1-1_ajftop.png]({{site.baseurl}}/_posts/Icon-1-1_ajftop.png)
+![Minimalist Decor for Small Living Rooms.jpeg]({{site.baseurl}}/_posts/Minimalist Decor for Small Living Rooms.jpeg)
+
