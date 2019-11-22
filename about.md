@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 <blockquote>
-## Quien soy?
+ <h2>Quien soy?</h2>
 </blockquote>
 Hola! Mi nombre es Ken Sanchez, soy un Fullstack developer. Soy de México y actualmente vivo en Ciudad de México, aquí nací y aquí crecí. Empecé a programar cuando tenía 15 años, recuerdo que mi primer lenguaje programación fue Python, la verdad no entendía mucho pero me encantaba hacer loops y escribir cualquier cosa que se me ocurría. 
 
