@@ -4,8 +4,9 @@ title: Acerca
 permalink: /about/
 published: true
 ---
+<blockquote>
 ## Quien soy?
-
+</blockquote>
 Hola! Mi nombre es Ken Sanchez, soy un Fullstack developer. Soy de México y actualmente vivo en Ciudad de México, aquí nací y aquí crecí. Empecé a programar cuando tenía 15 años, recuerdo que mi primer lenguaje programación fue Python, la verdad no entendía mucho pero me encantaba hacer loops y escribir cualquier cosa que se me ocurría. 
 
 
@@ -27,6 +28,4 @@ Algo muy importante es que NO debe desesperarte, esta guía esta hecha para que 
 
 Aprenderemos de la siguiente forma:
 
-Iremos analizando los conceptos en cada página y al finalizar los bloques de cada día estaremos haciendo un repaso de lo que has aprendido. Para garantizar que estas aprendiendo diariamente, habrán preguntas sobre como añadirías, cambiarías o mejorarías tu código. 
-
-
+Iremos analizando los conceptos en cada página y al finalizar los bloques de cada día estaremos haciendo un repaso de lo que has aprendido. Para garantizar que estas aprendiendo diariamente, habrán preguntas sobre como añadirías, cambiarías o mejorarías tu código.
