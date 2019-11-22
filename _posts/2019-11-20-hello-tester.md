@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+categories: Setup
 ---
 ## This is a test for ruby tutorial
 
