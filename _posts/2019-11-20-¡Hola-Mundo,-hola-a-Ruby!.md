@@ -27,4 +27,6 @@ Encontrarás bloques de código como estos:
     def hello
         puts "Hello World"
     end
+    
+Mayormente será para que puedas entender la estructura de un código, la idea es que toda la sintaxis que tu estés viendo durante esta guía se vea de forma entendible. La identación de un código es sumamente importante para su lectura.
 
