@@ -22,3 +22,9 @@ Ok, entonces estamos ya listos para iniciar, antes que nada quiero mencionarte u
 
 ### 1.- Bloques de código
 
+Encontrarás bloques de código como estos:
+
+    def hello
+        puts "Hello World"
+    end
+
