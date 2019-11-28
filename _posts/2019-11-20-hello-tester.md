@@ -3,12 +3,8 @@ published: true
 layout: post
 categories: Setup
 ---
-## This is a test for ruby tutorial
+## ¡Hola Mundo, hola a Ruby!
 
-    def method(argument)
-      puts "Hola como estas #{argument}?"
-    end
+Hola! Soy Ken Sanchez, creador de esta guía paso a paso. Me alegra mucho que te des una oportunidad en aprender algo nuevo. Este curso fue creado con un gran desempeño y mucha cautela para que toda la información que apredas aquí te sirva en el mundo real. Este curso te enseñará skills como <strong>buenas practicas</strong>, <strong>DRY</strong>, <strong>arquitectura de desarrollo</strong> y tecnologías como: <strong>SQL</strong>, <strong>Postgresql</strong>, <strong>AWS</strong>, y porsupuesto <strong>Ruby on Rails</strong>.
 
-    hello(argument)
-    
-<iframe height="400px" width="100%" src="https://repl.it/repls/ExtraneousAuthenticEyestrain?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
