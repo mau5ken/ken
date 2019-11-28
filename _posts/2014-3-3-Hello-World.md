@@ -13,7 +13,6 @@ Ruby es un lenguaje multiplataforma, es decir que puede ser instalada en cualqui
 <blockquote>
 Lista de sistemas gestores de Paquetes
 </blockquote>
-
 1. [Debian, Ubuntu](https://www.ruby-lang.org/es/documentation/installation/#apt)
 2. [CentOS, Fedora, RHEL](https://www.ruby-lang.org/es/documentation/installation/#apt)
 3. [Gentoo](https://www.ruby-lang.org/es/documentation/installation/#portage)
