@@ -20,5 +20,5 @@ Nos encaminaremos a analizar sintaxis de Ruby e ir avanzando poco a poco hasta s
 
 Ok, entonces estamos ya listos para iniciar, antes que nada quiero mencionarte unas cosas. Una de ellas es que, recuerdas que te dije que esto era una curso dinámico? Bueno pues, para la mejor experiencia de tu enseñanza verás ciertos señalamientos que es importante seguir.
 
-1.- <h3>Bloques de código</h3>
+### 1.- Bloques de código
 
