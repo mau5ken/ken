@@ -5,8 +5,17 @@ categories: Setup
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## Instalando ando.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Instalando ando.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Ruby es un lenguaje multiplataforma, es decir que puede ser instalada en cualquier sistema operativo y con muy pocas especificaciones. Ruby es compatible con sistemas operativos como:
+
+Sistemas Gestores de Paquetes
+- Debian, Ubuntu
+- CentOS, Fedora, RHEL
+- Gentoo
+- Arch Linux
+- [macOS](https://www.ruby-lang.org/es/documentation/installation/#homebrew)
+- Solaris, OpenIndiana
+- Otras Distribuciones
