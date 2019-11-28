@@ -11,13 +11,13 @@ published: true
 Ruby es un lenguaje multiplataforma, es decir que puede ser instalada en cualquier sistema operativo y con muy pocas especificaciones. Ruby es compatible con sistemas operativos como:
 
 Lista de sistemas gestores de Paquetes
-- [Debian, Ubuntu](https://www.ruby-lang.org/es/documentation/installation/#apt)
-- [CentOS, Fedora, RHEL](https://www.ruby-lang.org/es/documentation/installation/#apt)
-- [Gentoo](https://www.ruby-lang.org/es/documentation/installation/#portage)
-- [Arch Linux](https://www.ruby-lang.org/es/documentation/installation/#pacman)
-- [macOS](https://www.ruby-lang.org/es/documentation/installation/#homebrew)
-- [Solaris, OpenIndiana](https://www.ruby-lang.org/es/documentation/installation/#solaris)
-- [Otras Distribuciones](https://www.ruby-lang.org/es/documentation/installation/#solaris)
+-1. [Debian, Ubuntu](https://www.ruby-lang.org/es/documentation/installation/#apt)
+-2. [CentOS, Fedora, RHEL](https://www.ruby-lang.org/es/documentation/installation/#apt)
+-3. [Gentoo](https://www.ruby-lang.org/es/documentation/installation/#portage)
+-4. [Arch Linux](https://www.ruby-lang.org/es/documentation/installation/#pacman)
+-5. [macOS](https://www.ruby-lang.org/es/documentation/installation/#homebrew)
+-6. [Solaris, OpenIndiana](https://www.ruby-lang.org/es/documentation/installation/#solaris)
+-7. [Otras Distribuciones](https://www.ruby-lang.org/es/documentation/installation/#solaris)
 
 
 La comunidad de Ruby es bastante activa y brinda mucha documentación para quienes necesiten recursos para diferentes alternativas de uso. 
