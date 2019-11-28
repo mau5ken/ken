@@ -10,7 +10,9 @@ published: true
 
 Ruby es un lenguaje multiplataforma, es decir que puede ser instalada en cualquier sistema operativo y con muy pocas especificaciones. Ruby es compatible con sistemas operativos como:
 
-> Lista de sistemas gestores de Paquetes
+<blockquote>
+Lista de sistemas gestores de Paquetes
+</blockquote>
 
 1. [Debian, Ubuntu](https://www.ruby-lang.org/es/documentation/installation/#apt)
 2. [CentOS, Fedora, RHEL](https://www.ruby-lang.org/es/documentation/installation/#apt)
