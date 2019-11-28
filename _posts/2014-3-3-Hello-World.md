@@ -7,7 +7,6 @@ published: true
 
 ## Instalando ando.
 
-## Instalando ando.
 
 Ruby es un lenguaje multiplataforma, es decir que puede ser instalada en cualquier sistema operativo y con muy pocas especificaciones. Ruby es compatible con sistemas operativos como:
 
