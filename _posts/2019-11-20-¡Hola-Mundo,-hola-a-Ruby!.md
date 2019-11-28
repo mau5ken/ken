@@ -9,9 +9,9 @@ Hola! Soy Ken Sanchez, creador de esta guía paso a paso. Me alegra mucho que te
 
 Nos encaminaremos a analizar sintaxis de Ruby e ir avanzando poco a poco hasta su framework de Ruby on Rails. Es importante que al tomar este curso tomes 3 cosas muy importantes.
 
-1.- Si lo haces por el dinero, no aprenderás.
-2.- Entiende lo que estás escribiendo.
-3.- Si lo abandonas y lo retomas después, empieza desde el principio.
+- Si lo haces por el dinero, no aprenderás.
+- Entiende lo que estás escribiendo.
+- Si lo abandonas y lo retomas después, empieza desde el principio.
 
 ¿Porque tomar en cuenta estas 3 cosas? Porque yo lo he pasado y créeme no funciona. Siempre encuentras apasionado y listo para aprender, es por eso que este curso es bastante dinámico de tal forma que puedas entender y hacer mas y que este curso no se encuentre aburrido
 
