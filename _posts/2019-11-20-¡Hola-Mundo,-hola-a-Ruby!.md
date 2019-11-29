@@ -23,7 +23,7 @@ Ok, entonces estamos ya listos para iniciar, antes que nada quiero mencionarte u
 ### 1.- Bloques de código
 
 Encontrarás bloques de código como estos:
-{% highlight python %}
+{% highlight vc %}
     def hello
         puts "Hello World"
     end
