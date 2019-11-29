@@ -23,10 +23,12 @@ Ok, entonces estamos ya listos para iniciar, antes que nada quiero mencionarte u
 ### 1.- Bloques de código
 
 Encontrarás bloques de código como estos:
-
+{% highlight python %}
     def hello
         puts "Hello World"
     end
+ {% endhighlight %}
+
     
 Mayormente será para que puedas entender la estructura de un código, la idea es que toda la sintaxis que tu estés viendo durante esta guía se vea de forma entendible. La identación de un código es sumamente importante para su lectura.
 
@@ -36,4 +38,4 @@ Las consolas serán parte fundamental de este curso, mas que nada para que lo qu
 <iframe height="400px" width="100%" src="https://repl.it/repls/AzureAquamarineFont?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 ### 3.- Bloque de Tip
-La idea de esta guía es proveerte los recursos necesarios pero sin saturarte de información, estos bloques de tip te mandarán a otros recursos buenos que existen en el internet. También como recomendaciones sobre calidad de código dependiendo lo que estemos analizando. 
+La idea de esta guía es proveerte los recursos necesarios pero sin saturarte de información, estos bloques de tip te mandarán a otros recursos buenos que existen en el internet. También como recomendaciones sobre calidad de código dependiendo lo que estemos analizando.
