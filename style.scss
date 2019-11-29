@@ -111,6 +111,14 @@ img {
   max-width: 100%;
 }
 
+.tips {
+  background-color: #da8989;
+  padding: 7px 7px 7px 10px;
+  border-radius: 7px;
+  margin: 20px 0 20px 0;
+  overflow: scroll;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
