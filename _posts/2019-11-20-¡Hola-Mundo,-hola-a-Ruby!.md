@@ -37,3 +37,8 @@ Las consolas serán parte fundamental de este curso, mas que nada para que lo qu
 
 ### 3.- Bloque de Tip
 La idea de esta guía es proveerte los recursos necesarios pero sin saturarte de información, estos bloques de tip te mandarán a otros recursos buenos que existen en el internet. También como recomendaciones sobre calidad de código dependiendo lo que estemos analizando.
+
+<div class="tips">
+  <h4>💎 Tip!</h4>
+  El bloque de tip el cual te mostrará enlaces a recursos, libros, buenas praticas de código, recordatorios y mucho mas.
+</div>
