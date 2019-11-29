@@ -20,6 +20,7 @@ Lista de sistemas gestores de Paquetes
 5. [macOS](https://www.ruby-lang.org/es/documentation/installation/#homebrew)
 6. [Solaris, OpenIndiana](https://www.ruby-lang.org/es/documentation/installation/#solaris)
 7. [Otras Distribuciones](https://www.ruby-lang.org/es/documentation/installation/#solaris)
+8. [RubyInstaller (Windows)](https://www.ruby-lang.org/es/documentation/installation/#rubyinstaller)
 
 
 La comunidad de Ruby es bastante activa y brinda mucha documentación para quienes necesiten recursos para diferentes alternativas de uso. 
