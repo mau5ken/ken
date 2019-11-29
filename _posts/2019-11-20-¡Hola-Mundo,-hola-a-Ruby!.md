@@ -23,12 +23,10 @@ Ok, entonces estamos ya listos para iniciar, antes que nada quiero mencionarte u
 ### 1.- Bloques de código
 
 Encontrarás bloques de código como estos:
-{% highlight vc %}
+
     def hello
         puts "Hello World"
     end
- {% endhighlight %}
-
     
 Mayormente será para que puedas entender la estructura de un código, la idea es que toda la sintaxis que tu estés viendo durante esta guía se vea de forma entendible. La identación de un código es sumamente importante para su lectura.
 
