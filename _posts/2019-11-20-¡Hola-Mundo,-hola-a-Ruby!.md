@@ -40,5 +40,5 @@ La idea de esta guía es proveerte los recursos necesarios pero sin saturarte de
 
 <div class="tips">
   <h4>💎 Tip!</h4>
-  El bloque de tip el cual te mostrará enlaces a recursos, libros, buenas praticas de código, recordatorios y mucho mas.
+  Este es el bloque de tip el cual te mostrará enlaces a recursos, libros, buenas praticas de código, recordatorios y mucho mas.
 </div>
