@@ -30,7 +30,7 @@ La comunidad de Ruby es bastante activa y brinda mucha documentación para quien
 </div>
 
 
-En la lista que aparece arriba con los gestores de instalación de Ruby, elige dependiendo el siste,a operativo estés usando. Algunos sistemas operativos ya cuentas con Ruby instalada como lo es: **macOS, **Ubuntu, **debian** y entre otros.
+En la lista que aparece arriba con los gestores de instalación de Ruby, elige dependiendo el siste,a operativo estés usando. Algunos sistemas operativos ya cuentas con Ruby instalada como lo es: **macOS, Ubuntu, Debian** y entre otros.
 
 
 
