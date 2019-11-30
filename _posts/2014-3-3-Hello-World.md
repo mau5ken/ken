@@ -28,3 +28,16 @@ La comunidad de Ruby es bastante activa y brinda mucha documentación para quien
   <h4>💎 Tip!</h4>
 <strong>¿Que sistema operativo debes usar?</strong> Vaya, la pregunta es algo compleja pero te responderé de la forma mas sencilla y honesta. <strong>Entre más te adaptes a los ambientes es mejor</strong>, recuerda que las empresas allá afuera usan cosas que no lleve tiempo configurar. Si usas Mac, es buena opción solo que cambian diversas cosas en cuanto a instalaciones y configuraciones que iremos viendo poco a poco. Si usas windows, no esta tampoco nada mal pero si te acostumbras a linux es mil veces mejor. La idea es que puedas adaptarte a diversos ambientes, eso habla de un buen desarrollador.
 </div>
+
+
+En la lista que aparece arriba con los gestores de instalación de Ruby, elige dependiendo el siste,a operativo estés usando. Algunos sistemas operativos ya cuentas con Ruby instalada como lo es: **macOS, **Ubuntu, **debian** y entre otros.
+
+
+
+
+
+
+
+
+
+
