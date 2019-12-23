@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Sumas, restas, multiplicación, división y mas.
 
