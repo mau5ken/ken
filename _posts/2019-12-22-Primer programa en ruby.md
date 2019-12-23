@@ -10,7 +10,7 @@ En la terminal de esta página, escribe lo siguiente:
 
     puts "Hola, estoy aprendiendo Ruby!"
     
-<iframe height="400px" width="100%" src="https://repl.it/@hotdogs/print?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="400px" width="100%" src="https://www.jdoodle.com/embed/v0/1M2D"></iframe>
 
 ¿Que ha pasado? Como verás **puts** es una sintaxis de Ruby que le indica a la terminal que lo que lo que este entre comillas **“”** eso deba imprimir en la terminal. Algo genial de Ruby es que leer código es como si leyeras un libro en inglés. 
 
@@ -20,8 +20,3 @@ Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
     print "1"
     print "2"
     print "3"
-
-
-
-
-<iframe height="400px" width="100%" src="https://www.jdoodle.com/embed/v0/1M2A"></iframe>
