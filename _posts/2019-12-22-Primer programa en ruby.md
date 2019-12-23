@@ -12,7 +12,7 @@ En la terminal de esta página, escribe lo siguiente:
     
 <iframe src="https://paiza.io/projects/e/z4klPIE6_kqiebKpxfz-Ow?theme=twilight" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
 
-¿Que ha pasado? Como verás **puts** es una sintaxis de Ruby que le indica a la terminal que lo que lo que este entre comillas **“”** eso deba imprimir en la terminal. Algo genial de Ruby es que leer código es como si leyeras un libro en inglés. 
+¿Que ha pasado? Como verás **puts** es una sintaxis de Ruby que le indica a la terminal que lo que lo que este entre comillas **“ ”** eso deba imprimir en la terminal. Algo genial de Ruby es que leer código es como si leyeras un libro en inglés. 
 
 
 Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
