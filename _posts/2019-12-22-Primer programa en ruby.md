@@ -23,7 +23,7 @@ Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
 
 <iframe src="https://paiza.io/projects/e/z4klPIE6_kqiebKpxfz-Ow?theme=twilight" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
 
-Como verás, **print** y **puts** ejecutan las misma función de imprimir lo que le pidamos en la consola. Intenta cambiar los prints a puts.  ¿Notaste algo? **Print** imprime de forma horizontal mientras que **puts** imprime todo de forma vertical.
+Como verás, **print** y **puts** ejecutan las misma función de imprimir lo que le pidamos en la consola. Intenta cambiar los prints a puts.  ¿Notaste algo? **Print** imprime de forma horizontal mientras que **puts** imprime todo de forma vertical. Esto solo va a ocurrir cada vez que escribamos uno u otro a la terminal multiples veces, pero si lo escribes solo una vez, siempre ejecutará de forma horizontal.
 
 ### puts
 
