@@ -39,4 +39,6 @@ Como verás, **print** y **puts** ejecutan las misma función de imprimir lo que
       print "1"
       print "2"
       print "3"
+     
+     Resultado:
       >123
