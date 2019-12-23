@@ -21,7 +21,7 @@ Notaste algo? No se imprimió nada, eso es porque cuando Ruby detecta el signo d
 
 <div class="activity"> 
  💻
-Ahora, elimina el signo de <strong>#</strong> y ejecuta el código.  
+Ahora, en la terminal arriba elimina el signo de <strong>#</strong> y ejecuta el código.  
 </div> 
 
 <br>
