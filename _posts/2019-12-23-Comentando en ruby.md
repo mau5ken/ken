@@ -43,3 +43,10 @@ En la terminal abajo elimina los signos de <strong>#</strong> y escribe <strong>
 </div> 
     
  <iframe src="https://paiza.io/projects/e/NoxeT_FjKYwKPYtQNa7mrQ?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
+ 
+ Los comentarios son muy importantes a la hora de escribir código y explicar lo que hace al momento de ejecutar. Esto se ve mucho cuando estás en empresas y te piden documentar código. Que pasa si escribes texto y no agregas comentarios? ¡**Recibirás un error de sintaxis**!
+ 
+<br>
+<br>
+
+### Ambos escenarios son muy importantes a la hora de escribir comentarios. Experimenta un poco mas con los comentarios. Cuando estés listo pasa a la siguiente actividad
