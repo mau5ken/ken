@@ -39,7 +39,7 @@ Ahora que tenemos eso muy entendido, ¿que pasaría si un día necesitas que esc
     
 <div class="activity"> 
  💻
-Ahora, en la terminal abajo escribe <strong>=begin</strong> y <strong>=end</strong> entre el texto y ejecuta el código.
+En la terminal abajo elimina los signos de <strong>#</strong> y escribe <strong>=begin</strong> y <strong>=end</strong> entre el texto, no olvides ejecutar el código.
 </div> 
     
  <iframe src="https://paiza.io/projects/e/NoxeT_FjKYwKPYtQNa7mrQ?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
