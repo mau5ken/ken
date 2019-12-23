@@ -16,8 +16,9 @@ Veamos un ejemplo en la consola de como funciona. En la terminal abajo, da click
 Notaste algo? No se imprimió nada, eso es porque cuando Ruby detecta el signo de **#**, reconoce que es un comentario y por lo cual no lo ejecuta. No es que no lo ignore, simplemente la sintaxis está escrita de esta forma. Ruby **nunca** ignora nada. Ahora, elimina el signo de **#** y ejecuta el código.
 
 
+### Comentario multiples
 
-
+Ahora que tenemos eso muy entendido, ¿que pasaría si un día necesitas que escribir muchos comentarios a la vez? Bueno, tendrías que escribir por **cada** línea el signo de **#** pero eso es un poco raro y feo. Para eso Ruby nos trae **=begin** y **=end**
 
 
 
