@@ -20,6 +20,12 @@ Notaste algo? No se imprimió nada, eso es porque cuando Ruby detecta el signo d
 
 Ahora que tenemos eso muy entendido, ¿que pasaría si un día necesitas que escribir muchos comentarios a la vez? Bueno, tendrías que escribir por **cada** línea el signo de **#** pero eso es un poco raro y feo. Para eso Ruby nos trae **=begin** y **=end**
 
+    =begin
+        Puedo escribir lo que quiera entre begin y end sin necesidad de escribir mucho #
+    =end
+    
+ <iframe src="https://paiza.io/projects/e/NoxeT_FjKYwKPYtQNa7mrQ?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
+
 
 
         
