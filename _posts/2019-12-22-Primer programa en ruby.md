@@ -21,5 +21,4 @@ Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
     print "2"
     print "3"
 
- 
-<iframe height="400px" width="100%" src="https://repl.it/@hotdogs/print?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>
+http://tpcg.io/MVQd1z7k
