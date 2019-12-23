@@ -20,3 +20,5 @@ Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
     print "1"
     print "2"
     print "3"
+
+<iframe src="https://paiza.io/projects/e/z4klPIE6_kqiebKpxfz-Ow?theme=twilight" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
