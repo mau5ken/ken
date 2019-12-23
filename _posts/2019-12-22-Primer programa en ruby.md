@@ -21,4 +21,7 @@ Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
     print "2"
     print "3"
 
-http://tpcg.io/MVQd1z7k
+
+
+    
+<iframe height="400px" width="100%" src="http://tpcg.io/MVQd1z7k"></iframe>
