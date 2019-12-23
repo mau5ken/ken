@@ -49,4 +49,5 @@ En la terminal abajo elimina los signos de <strong>#</strong> y escribe <strong>
 <br>
 <br>
 
-### Ambos escenarios son muy importantes a la hora de escribir comentarios. Experimenta un poco mas con los comentarios. Cuando estés listo pasa a la siguiente actividad
+### Conclusión
+Ambos escenarios son muy importantes a la hora de escribir comentarios. Experimenta un poco mas con los comentarios. Cuando estés listo pasa a la siguiente actividad
