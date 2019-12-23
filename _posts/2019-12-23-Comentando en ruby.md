@@ -24,6 +24,10 @@ Notaste algo? No se imprimió nada, eso es porque cuando Ruby detecta el signo d
 Ahora, elimina el signo de <strong>#</strong> y ejecuta el código.  
 </div> 
 
+<br>
+<br>
+<br>
+<br>
 
 ### Comentario multiples
 
