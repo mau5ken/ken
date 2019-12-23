@@ -6,7 +6,7 @@ published: true
 Para aprender Ruby, empecemos con los conceptos básicos el cual nos ayudará a entender aún mas este lenguaje. Empecemos con el primer ejercicio.
 
 
-En la terminal de esta página, escribe lo siguiente:
+En la terminal abajo, escribe lo siguiente:
 
     puts "Hola, estoy aprendiendo Ruby!"
     
@@ -44,4 +44,5 @@ Como verás, **print** y **puts** ejecutan las misma función de imprimir lo que
       >123
       
 
-### Siéntete en la total libertad de usar la terminal e intenta imprimir más cosas con **print** y **puts**. Cuando estés listo, puedes continuar con la siguiente lección.
+### Conlusión 
+Siéntete en la total libertad de usar la terminal e intenta imprimir más cosas con **print** y **puts**. Cuando estés listo, puedes continuar con la siguiente lección.
