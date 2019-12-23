@@ -9,7 +9,8 @@ Los comentarios en Ruby son de clase básica y de mucha importancia. Habrán vec
 
 
 
-<div class="activity"> 
+<div class="activity">
+  💻
  En la terminal abajo, da click en <strong>ejecutar</strong>.  
 </div> 
 
@@ -19,7 +20,7 @@ Los comentarios en Ruby son de clase básica y de mucha importancia. Habrán vec
 Notaste algo? No se imprimió nada, eso es porque cuando Ruby detecta el signo de **#**, reconoce que es un comentario y por lo cual no lo ejecuta. No es que no lo ignore, simplemente la sintaxis está escrita de esta forma. Ruby **nunca** ignora nada.
 
 <div class="activity"> 
- 
+ 💻
 Ahora, elimina el signo de <strong>#</strong> y ejecuta el código.  
 </div> 
 
