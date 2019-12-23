@@ -44,4 +44,4 @@ Como verás, **print** y **puts** ejecutan las misma función de imprimir lo que
       >123
       
 
-### Siéntete en la total libertad de usar la terminal e intenta imprimir más cosas con **print** y **puts**. Cuando hayas terminado, puedes continuar con la siguiente lección.
+### Siéntete en la total libertad de usar la terminal e intenta imprimir más cosas con **print** y **puts**. Cuando estés listo, puedes continuar con la siguiente lección.
