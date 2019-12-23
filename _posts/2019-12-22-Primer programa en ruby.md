@@ -23,5 +23,4 @@ Ahora, hagamos algo diferente, en la terminal escribe lo siguiente:
 
 
 
-    
-<iframe height="400px" width="100%" src="http://tpcg.io/MVQd1z7k"></iframe>
+ http://tpcg.io/MVQd1z7k
