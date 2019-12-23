@@ -34,7 +34,7 @@ Ahora, en la terminal arriba elimina el signo de <strong>#</strong> y ejecuta el
 Ahora que tenemos eso muy entendido, ¿que pasaría si un día necesitas que escribir muchos comentarios a la vez? Bueno, tendrías que escribir por **cada** línea el signo de **#** pero eso es un poco raro y feo. Para eso Ruby nos trae **=begin** y **=end**
 
     =begin
-        Puedo escribir lo que quiera entre begin y end sin necesidad de escribir mucho #
+        Puedo escribir lo que quiera entre begin y end sin necesidad de escribir muchas veces 			lineas con el signo de #
     =end
     
 <div class="activity"> 
