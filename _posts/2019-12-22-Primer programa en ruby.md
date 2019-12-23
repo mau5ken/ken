@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+## Imprimiendo en consola
 
 Para aprender Ruby, empecemos con los conceptos básicos el cual nos ayudará a entender aún mas este lenguaje. Empecemos con el primer ejercicio.
 
