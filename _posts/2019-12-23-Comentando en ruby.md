@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Escribiendo comentarios
 
@@ -9,6 +9,3 @@ Los comentarios en Ruby son de clase básica y de mucha importancia. Habrán vec
 ### Ejemplo de un comentario en Ruby
 
         #Este es un comentario y por lo cual ruby no lo ejecuta
-    
-
-
