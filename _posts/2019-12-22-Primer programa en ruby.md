@@ -10,7 +10,7 @@ En la terminal de esta página, escribe lo siguiente:
 
     puts "Hola, estoy aprendiendo Ruby!"
     
-<iframe height="400px" width="100%" src="https://repl.it/repls/ChartreuseSaddlebrownMonotone?lite=false" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/repls/ChartreuseSaddlebrownMonotone?lite=true"></iframe>
 
 ¿Que ha pasado? Como verás **puts** es una sintaxis de Ruby que le indica a la terminal que lo que lo que este entre comillas **“”** eso deba imprimir en la terminal. Algo genial de Ruby es que leer código es como si leyeras un libro en inglés. 
 
