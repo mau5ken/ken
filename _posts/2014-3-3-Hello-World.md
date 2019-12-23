@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instalando Ruby
-categories: Setup
+categories: null
 published: true
 ---
 
