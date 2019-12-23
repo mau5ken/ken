@@ -119,6 +119,14 @@ img {
   overflow: scroll;
 }
 
+.activity {
+  background-color: #f3edcb;
+  padding: 7px 7px 7px 10px;
+  border-radius: 7px;
+  margin: 20px 0 20px 0;
+  overflow: scroll;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
