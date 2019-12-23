@@ -37,10 +37,9 @@ Ahora que tenemos eso muy entendido, ¿que pasaría si un día necesitas que esc
         Puedo escribir lo que quiera entre begin y end sin necesidad de escribir mucho #
     =end
     
+<div class="activity"> 
+ 💻
+Ahora, en la terminal abajo escribe <strong>=begin</strong> y <strong>=end</strong> entre el texto y ejecuta el código.
+</div> 
+    
  <iframe src="https://paiza.io/projects/e/NoxeT_FjKYwKPYtQNa7mrQ?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
-
-
-
-        
-        
- 
