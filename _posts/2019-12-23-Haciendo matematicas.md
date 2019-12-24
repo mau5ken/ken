@@ -10,10 +10,7 @@ En todos los lenguajes de programación podemos hacer cosas de matemáticas y en
 - `/`   Dividir
 - `*`   Multiplicar
 - `%`   Modulo
-- `<`   Menor que
-- `>`   Mayor que
-- `<=`  Menor o igual que
-- `>=`  Mayor o igual que
+- `**`  Menor que
 
 <br>
 <br>
@@ -36,3 +33,11 @@ En la terminal abajo escribe una <strong>suma</strong>, <strong>resta</strong>, 
 </div> 
  
  <iframe src="https://paiza.io/projects/e/iG02cOeziXbgpfEQ7Zf57Q?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
+ 
+
+<br>
+<br>
+
+## Modulo, mayor que, menor que y los igual que.
+
+
