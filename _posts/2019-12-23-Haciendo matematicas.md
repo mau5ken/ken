@@ -8,7 +8,7 @@ En todos los lenguajes de programación podemos hacer cosas de matemáticas y en
 - `+`   Sumar
 - `-`   Restar 
 - `/`   Dividir
-- `*`       Multiplicar
+- `*`   Multiplicar
 - `%`   Modulo
 - `<`   Menor que
 - `>`   Mayor que
