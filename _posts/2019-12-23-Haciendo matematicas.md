@@ -42,7 +42,8 @@ En la terminal abajo escribe una <strong>suma</strong>, <strong>resta</strong>, 
 
 Un exponente es simplificado de la siguiente forma. Imagina que tenemos lo siguiente:
 
-     puts 2**3
+    puts 2**3
+     
 Esto va a imprimir **8** en consola. ¿Porque? Bueno un **exponente** se funciona de esta forma:
 **2 * 2 = 4**, **4 * 2 = 8**. Lo que estamos diciendo literalmente es: 2 * 2 * 2 o en otras palabras multiplica el número 2; 3 veces.
 
