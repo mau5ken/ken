@@ -5,7 +5,7 @@ published: true
 
 En todos los lenguajes de programación podemos hacer cosas de matemáticas y en Ruby no hay excepción. Para poder hacer Matemáticas primero hay que entender los símbolos permitidos en Ruby, los cuales son:
 
-+   Sumar
+**+**   Sumar
 -   Restar 
 /   Dividir
 *   Multiplicar
