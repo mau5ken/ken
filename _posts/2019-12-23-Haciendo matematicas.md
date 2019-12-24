@@ -32,7 +32,7 @@ Escribir sintaxis en ruby para poder hacer operaciones matemáticas no es difici
 En la terminal abajo escribe una <strong>suma</strong>, <strong>resta</strong>, <strong>división</strong> y <strong>multiplicación</strong>. Puedes ser el ejemplo de arriba o cualquier operación que gustes. Cuando termines, da click en <strong>ejecutar</strong>
 </div> 
  
- <iframe src="https://paiza.io/projects/e/iG02cOeziXbgpfEQ7Zf57Q?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
+<iframe src="https://paiza.io/projects/e/z4klPIE6_kqiebKpxfz-Ow?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
  
 
 <br>
@@ -48,5 +48,3 @@ Esto va a imprimir **8** en consola. ¿Porque? Bueno un **exponente** se funcion
 - **2  *  2  =  4  *  2  =  8**.
 
 Lo que estamos diciendo literalmente es: 2 * 2 * 2 o en otras palabras multiplica el número 2, 3 veces.
-
-
