@@ -32,7 +32,7 @@ Escribir sintaxis en ruby para poder hacer operaciones matemáticas no es difici
  
 <div class="activity"> 
  💻
-En la terminal abajo escribe una suma, resta división y multiplicación. Puede ser el ejemplo de arriba o cualquier operación que gustes. Cuando termines, da click en <strong>ejecutar</strong>
+En la terminal abajo escribe una <strong>suma</strong>, <strong>resta</strong>, <strong>división</strong> y <strong>multiplicación</strong>. Puede ser el ejemplo de arriba o cualquier operación que gustes. Cuando termines, da click en <strong>ejecutar</strong>
 </div> 
  
  <iframe src="https://paiza.io/projects/e/iG02cOeziXbgpfEQ7Zf57Q?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
