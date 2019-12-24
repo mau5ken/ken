@@ -20,7 +20,7 @@ En todos los lenguajes de programación podemos hacer cosas de matemáticas y en
 
 ### Sumar, restar, dividir y multiplicar en Ruby
 
-Escribir sintaxis en ruby para poder hacer operaciones matemáticas no es dificil. Gracias a que Ruby es un lenguaje muy fácil y también escribir, podemos hacer operaciones matemáticas como si estuviéramos en la calculadora. Te acuerdas que mencionamos que **puts** se usa para imprimir en consola? Pues tambien se usa para imprimir numeros. 
+Escribir sintaxis en ruby para poder hacer operaciones matemáticas no es dificil. Gracias a que Ruby es un lenguaje muy fácil y también escribir, podemos hacer operaciones matemáticas como si estuviéramos en la calculadora. ¿Te acuerdas que mencionamos que **puts** se usa para imprimir en consola? Pues tambien se usa para imprimir numeros. 
 
     puts 1 + 5  
 
