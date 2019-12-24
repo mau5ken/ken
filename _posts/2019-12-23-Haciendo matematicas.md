@@ -48,3 +48,8 @@ Esto va a imprimir **8** en consola. ¿Porque? Bueno un **exponente** se funcion
 - **2  *  2  =  4  *  2  =  8**.
 
 Lo que estamos diciendo literalmente es: 2 * 2 * 2 o en otras palabras multiplica el número 2, 3 veces.
+<div class="activity"> 
+ 💻
+Practiquemos un poco mas. En la consola abajo corre el programa y siéntete en la libertad de crear tus propios exponentes. Cuando termines, da click en <strong>ejecutar</strong>
+</div> 
+<iframe src="https://paiza.io/projects/e/wRKHdynGsqrsKEMxUBgdhw?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
