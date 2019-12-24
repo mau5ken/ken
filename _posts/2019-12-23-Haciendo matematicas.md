@@ -20,10 +20,10 @@ En todos los lenguajes de programación podemos hacer cosas de matemáticas y en
 
 Escribir sintaxis en ruby para poder hacer operaciones matemáticas no es dificil. Gracias a que Ruby es un lenguaje muy fácil y también escribir, podemos hacer operaciones matemáticas como si estuviéramos en la calculadora
 
-`  1 + 5
+` 1 + 5
 
-   15 - 5
+  15 - 5
    
-   20 / 4
+  20 / 4
 
-   5 * 23 `
+  5 * 23 `
