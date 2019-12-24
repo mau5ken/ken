@@ -3,4 +3,19 @@ published: true
 ---
 ## Sumas, restas, multiplicación, división y mas.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+En todos los lenguajes de programación podemos hacer cosas de matemáticas y en Ruby no hay excepción. Para poder hacer Matemáticas primero hay que entender los símbolos permitidos en Ruby, los cuales son:
+
++   Sumar
+-   Restar 
+/   Dividir
+*   Multiplicar
+%   Modulo
+<   Menor que
+>   Mayor que
+<=  Menor o igual que
+>=  Mayor o igual que
+
+
+
+
+
