@@ -47,7 +47,13 @@ Un exponente es simplificado de la siguiente forma. Imagina que tenemos lo sigui
 Esto va a imprimir **8** en consola. ¿Porque? Bueno un **exponente** se funciona de esta forma:
 - **2  *  2  =  4  *  2  =  8**.
 
-Lo que estamos diciendo literalmente es: 2 * 2 * 2 o en otras palabras multiplica el número 2, 3 veces.
+1. Primero multiplicamos 2 * 2
+2. Nos da el resultado de **4**
+3. Luego multiplicamos el **4** por otro **2**
+4. Dando el total de **8**
+
+En contexto, lo que estamos diciendo es: Multiplica el **2**, **3** veces. ¡Asi de sencillo!
+
 <div class="activity"> 
  💻
 Practiquemos un poco mas. En la consola abajo corre el programa y siéntete en la libertad de crear tus propios exponentes. Cuando termines, da click en <strong>ejecutar</strong>
