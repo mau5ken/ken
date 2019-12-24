@@ -15,6 +15,8 @@ En todos los lenguajes de programación podemos hacer cosas de matemáticas y en
 - `<=`  Menor o igual que
 - `>=`  Mayor o igual que
 
+<br>
+<br>
 
 ### Sumar, restar, dividir y multiplicar en Ruby
 
@@ -27,3 +29,10 @@ Escribir sintaxis en ruby para poder hacer operaciones matemáticas no es difici
     20 / 4
 
     5 * 23
+ 
+<div class="activity"> 
+ 💻
+En la terminal abajo escribe una suma, resta división y multiplicación. Puede ser el ejemplo de arriba o cualquier operación que gustes. Cuando termines, da click en <strong>ejecutar</strong>
+</div> 
+ 
+ <iframe src="https://paiza.io/projects/e/iG02cOeziXbgpfEQ7Zf57Q?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
