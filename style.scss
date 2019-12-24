@@ -149,6 +149,9 @@ code.language-plaintext.highlighter-rouge{
   border-radius: 10px;
 }
 
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+  text-transform: lowercase;
+}
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
