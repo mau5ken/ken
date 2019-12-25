@@ -1,5 +1,6 @@
 ---
 published: true
+categories: level1
 ---
 ## Imprimiendo en consola
 
