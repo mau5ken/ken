@@ -384,6 +384,13 @@ footer {
   text-align: center;
 }
 
+.swiper-pagination{
+  position: inherit;
+  text-align: center;
+  transition: .3s opacity;
+  transform: translate3d(0,0,0);
+  z-index: 10;
+}
 
 .swiper-container {
   width: 100%;
