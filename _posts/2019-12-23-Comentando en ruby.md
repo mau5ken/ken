@@ -1,6 +1,6 @@
 ---
 published: true
-categories: level1
+categories: Level1
 ---
 ## Escribiendo comentarios
 
