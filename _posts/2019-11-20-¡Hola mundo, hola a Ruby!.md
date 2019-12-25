@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: Setup
+categories: setup
 ---
 ## ¡Manos al teclado!
 
