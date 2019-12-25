@@ -1,5 +1,6 @@
 ---
 published: true
+categories: level 1
 ---
 ## Escribiendo comentarios
 
