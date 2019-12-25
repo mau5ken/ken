@@ -146,7 +146,11 @@ code.language-plaintext.highlighter-rouge{
 
 
 .b-radius10px{
-  border-radius: 10px;
+  border-radius: 10px !important;
+}
+
+.card .card-action:last-child {
+  border-radius: 0 0 10px 10px;
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
