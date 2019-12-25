@@ -1,6 +1,6 @@
 ---
 published: true
-categories: level 1
+categories: level1
 ---
 ## Imprimiendo en consola
 
