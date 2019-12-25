@@ -62,7 +62,7 @@ layout: default
       <div style="padding-top: 3em;">
         <h2>¿Gustas invitarme un café? Cualquier aportación o donación son bienvenidas!</h2>
         <p style="text-align: justify;margin-right: 20%;">Catching Ruby se sostiene por donaciones voluntarias, esto mantiene al sitio en línea y con info actualizada.</p>
-        <a style="border-radius: 20px;" class="waves-effect waves-light btn red accent-2 hoverable">Mas info.</a>
+        <a href="#modal1" style="border-radius: 20px;" class="waves-effect waves-light btn red accent-2 hoverable modal-trigger">Mas info.</a>
       </div>  
     </div>
 
@@ -71,6 +71,20 @@ layout: default
     </div>
   </div>
 </div>
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="Y53ELCACRUQY8" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_YT/i/scr/pixel.gif" width="1" height="1" />
+      </form>
+  </div>
+
+
+  
 
 <!--
 <div class="posts">
