@@ -1,6 +1,6 @@
 ---
 published: true
-categories: level1
+categories: level-1
 ---
 ## Sumas, restas, multiplicación, división y mas.
 
