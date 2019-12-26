@@ -4,4 +4,6 @@ categories: Level1
 ---
 ## Conociendo las variables
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Alguna vez en la escuela en tu clase de matemáticas escuchaste la palabra **variable**? Pues aquí también la oirás pero de una forma mas fácil de entender. Una variable tanto como en Ruby como en cualquier otro lenguaje de programación es la forma de **guardar** o **almacenar** información, tales como **números**, **palabras**, **operaciones matemáticas**, **booleanos** (lo veremos en la siguiente lección) y muchas cosas mas.
+
+
