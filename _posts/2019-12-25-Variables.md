@@ -14,5 +14,14 @@ El primero ejemplo de como funcionan las variables, es como se usan para poder g
     my_name = "Ken Sanchez"
     
 1. Creamos una variable llamada `my_name`. En ruby **no** puedes agregar espacios en banco como `my name` para nombrar variables o esto generará un error de sintaxis.
-2. Usamos el signo de `=`para decirle a Ruby que el nombre de tu variable va ser **igual** a lo que queremos guardar.
-3. Para guardar **texto** en Ruby o como son mejor conocidas como **strings** siempre llevarán dos signos de **" "**. 
+2. Usamos el signo de `=` para decirle a Ruby que el nombre de tu variable va ser **igual** a lo que queremos guardar.
+3. Para guardar **texto** en Ruby o como son mejor conocidas como **strings** siempre llevarán dos signos de **" "**. Esto siempre se usará siempre que vayamos a almacenar un **string**
+
+<div class="activity"> 
+ 💻
+En la consola abajo, crea las siguientes <strong>variables</strong>:
+  - my_name
+  - 
+</div> 
+
+<iframe src="https://paiza.io/projects/e/z4klPIE6_kqiebKpxfz-Ow?theme=monokai" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
