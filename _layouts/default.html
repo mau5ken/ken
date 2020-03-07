@@ -30,9 +30,12 @@
       </div>
     </div>
 
-    <div class="header-bg">
+    {% if page.url == "/index.html" %}
+      <div class="header-bg">    
       
-    </div>
+      </div>
+    {% endif %}
+
 
     <div id="main" role="main" class="container">
       {{ content }}
