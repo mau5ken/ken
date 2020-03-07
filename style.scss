@@ -185,12 +185,12 @@ code.language-plaintext.highlighter-rouge{
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 1em;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid transparent;
 
   @include mobile {
     text-align: center;
