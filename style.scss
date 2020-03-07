@@ -78,7 +78,7 @@ a {
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
-
+  font-family: $poppins;
 }
 
 ul, ol {
@@ -248,7 +248,7 @@ code.language-plaintext.highlighter-rouge{
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $poppins;
   font-size: 18px;
 
   @include mobile {
@@ -264,6 +264,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    font-family: $poppins;
 
     @include mobile {
       margin: 0 10px;
