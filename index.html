@@ -64,8 +64,8 @@ layout: default
   <div class="posts">
     {% for post in site.posts %}
       <div class="col l4 m4 s12">
-        <article class="post">
-          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <article class="post card-panel b-radius10px">
+          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
           <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
         </article>
       </div>
