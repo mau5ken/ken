@@ -534,4 +534,3 @@
   exports.default = WOW;
   module.exports = exports['default'];
 });
-© 2020 GitHub, Inc.
