@@ -60,18 +60,18 @@ layout: default
 
   
 
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
+<div class="row">
+  <div class="posts">
+    {% for post in site.posts %}
+      <div class="col l4 m4 s12">
+        <article class="post">
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+          <div class="entry">
+            {{ post.excerpt }}
+          </div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
+        </article>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
-    </article>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
