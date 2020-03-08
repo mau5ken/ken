@@ -11,8 +11,8 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/materialize.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/animate.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
     <meta name="theme-color" content="#212529">
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -32,7 +32,7 @@
 
     {% if page.url == "/" %} 
       <div class="header-bg">    
-        <div style="padding-top: 2%;">
+        <div style="padding-top: 2%;" class="wow fadeInUp">
           <h1 style="margin-bottom: -6px;" class="center green-text text-accent-3">ken Sanchez</h1>
           <h4 class="center white-text">Desarrollador Fullstack</h4>
           <img class="circle-img center-img" src="https://res.cloudinary.com/craftwebs/image/upload/v1525176247/kensanchez1.jpg" alt="">
@@ -74,30 +74,9 @@
     {% include analytics.html %}
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <script src="https://unpkg.com/swiper/js/swiper.js"></script>
-    <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+    <script src="/wow.js"></script>
     <script>
-      $(document).ready(function(){
-        $('.modal').modal();
-        $('.carousel').carousel();
-      });
-    </script>
-    <script>
-      var swiper = new Swiper('.swiper-container', {
-        slidesPerView: 3,
-        spaceBetween: 30,
-        pagination: {
-          el: '.swiper-pagination',
-          clickable: true,
-        },
-      });
-      var swiper = new Swiper('.single', {
-        navigation: {
-          nextEl: '.swiper-button-next',
-          prevEl: '.swiper-button-prev',
-        },
-      });
-  </script>
+      new WOW().init();
     </script>
   </body>
 </html>
