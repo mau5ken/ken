@@ -2,29 +2,28 @@
 layout: default
 ---
 
-<div class="section">
+<!--Icons-->
+<div class="section containers">
   <div class="row">
     <div class="col l4 m4 s4">
       <img class="center-img floating" src="https://res.cloudinary.com/craftwebs/image/upload/v1583744313/seo-and-web_2_e6733x.png" alt="">
       <h2 class="center">UX & UI</h2>
-      
     </div>
 
     <div class="col l4 m4 s4">
       <img class="center-img floating" src="https://res.cloudinary.com/craftwebs/image/upload/v1583745010/seo-and-web_3_ehadhd.png" alt="">
       <h2 class="center">Back end</h2>
-      
     </div>
 
     <div class="col l4 m4 s4">
       <img class="center-img floating" src="https://res.cloudinary.com/craftwebs/image/upload/v1583744259/seo-and-web_1_qcyrep.png" alt="">
       <h2 class="center">Front end</h2>
-    
     </div>
   </div>
 </div>
 
-<div class="section">
+<!--About me-->
+<div class="section container">
   <div class="row">
     <div class="col l6">
       <h1 class="wow fadeIn red-text text-accent-2">Un poco sobre mí</h1>
@@ -39,9 +38,8 @@ layout: default
   </div>
 </div>
 
-
 <!--Back end-->
-<div class="section">
+<div class="section container">
   <div class="row">
     <div class="col l6 m6 s12" style="margin-top: 5em;">
       <div style="font-size: 60px;" class="col l4"><i id="ruby" class="devicon-ruby-plain"></i></div>
@@ -58,7 +56,8 @@ layout: default
   </div>
 </div>
 
-<div class="section">
+<!--Front end-->
+<div class="section container">
   <div class="row">
     <div class="col l6 m6 s12">
       <h1 class="wow fadeIn red-text text-accent-2">>_Frontend</h1>
@@ -75,6 +74,11 @@ layout: default
 </div>
 
 <div class="section">
+  
+</div>
+
+
+<div class="section container">
   <div class="row">
     <div class="col l6 ">
       <div style="padding-top: 3em;">
@@ -118,16 +122,17 @@ layout: default
 </div>
 
   
-
-<div class="row">
-  <div class="posts">
-    {% for post in site.posts %}
-      <div class="col l4 m4 s12">
-        <article class="post card-panel b-radius10px wow fadeInDown">
-          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
-        </article>
-      </div>
-    {% endfor %}
+<div class="section">
+  <div class="row">
+    <div class="posts">
+      {% for post in site.posts %}
+        <div class="col l4 m4 s12">
+          <article class="post card-panel b-radius10px wow fadeInDown">
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
+          </article>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
