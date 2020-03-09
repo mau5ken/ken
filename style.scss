@@ -385,6 +385,7 @@ footer {
   text-align: center;
 }
 
+/*Backend*/
 .devicon-ruby-plain:hover{
   color:#e8584c;
 }
@@ -393,6 +394,17 @@ footer {
 }
 .devicon-python-plain:hover{
   color: #ffd845;
+}
+
+/*frontend*/
+.devicon-html5-plain:hover{
+  color:#f56641;
+}
+.devicon-css3-plain:hover{
+  color:#3d8fc6;
+}
+.devicon-javascript-plain:hover{
+  color: #f0db4f;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
