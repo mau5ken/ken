@@ -18,7 +18,7 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead" style="background-color: #212529;">
+    <!-- <div class="wrapper-masthead" style="background-color: #212529;">
       <div class="container">
         <header class="masthead clearfix">
           <nav class="transparent z-depth-0" style="margin-top: 0px;">
@@ -28,7 +28,25 @@
           </nav>
         </header>
       </div>
-    </div>
+    </div> -->
+    <nav style="background-color: #212529;">
+      <div class="nav-wrapper" style="background-color: #212529;">
+        <a href="#!" class="brand-logo">Logo</a>
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="{{ site.baseurl }}/">Blog</a></li>
+          <li><a href="{{ site.baseurl }}/categories">Categorias</a></li>
+          <li><a href="{{ site.baseurl }}/about">Acerca</a></li>
+        </ul>
+      </div>
+      <ul class="sidenav" id="mobile-demo">
+        <li><a href="{{ site.baseurl }}/">Blog</a></li>
+        <li><a href="{{ site.baseurl }}/categories">Categorias</a></li>
+        <li><a href="{{ site.baseurl }}/about">Acerca</a></li>
+      </ul>
+    </nav>
+            
+            
 
     {% if page.url == "/" %} 
       <div class="wave-container">
