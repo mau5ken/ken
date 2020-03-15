@@ -76,18 +76,20 @@ layout: default
 
 <div class="section" style="height: 20em;background: #212529;">
   <h2 class="wow fadeIn red-text text-accent-2 center-align">>_Mis últimos artículos</h2>
-  <div class="row">
-    <div class="posts">
-      {% for post in site.posts %}
-        <div class="col l4 m4 s12">
-          <article class="post card-panel b-radius10px wow fadeInDown">
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
-          </article>
+    <div style="padding-top:2em;" class="section">
+      <div class="row">
+        <div class="posts">
+          {% for post in site.posts limit:3 %}
+            <div class="col l4 m4 s12">
+              <article class="post card-panel b-radius10px wow fadeInDown">
+                <h3><a class="blue-grey-text text-darken-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
+              </article>
+            </div>
+          {% endfor %}
         </div>
-      {% endfor %}
+      </div>
     </div>
-  </div>
 </div>
 
 
