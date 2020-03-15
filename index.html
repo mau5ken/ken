@@ -83,9 +83,8 @@ layout: default
           {% for post in site.posts limit:3 %}
             <div class="col l4 m4 s12">
               <article class="post card b-radius10px wow fadeIn">
-                
                 <div class="card-image waves-effect waves-block waves-light">
-                  <img src="{{ post.thumbnail }}" />
+                  <img class="equal-img" src="{{ post.thumbnail }}" />
                 </div>
                 <div class="card-content">
                   <h3><a class="blue-grey-text text-darken-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
