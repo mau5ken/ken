@@ -74,7 +74,18 @@ layout: default
 </div>
 
 <div class="section" style="height: 20em;background: #1f1f1f;">
-  
+  <div class="row">
+    <div class="posts">
+      {% for post in site.posts %}
+        <div class="col l4 m4 s12">
+          <article class="post card-panel b-radius10px wow fadeInDown">
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
+          </article>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
 
 
@@ -118,21 +129,5 @@ layout: default
             <span style="margin-left:15px;font-size:28px !important;">Buy me a coffee</span>
           </a>
       </div>
-  </div>
-</div>
-
-  
-<div class="section">
-  <div class="row">
-    <div class="posts">
-      {% for post in site.posts %}
-        <div class="col l4 m4 s12">
-          <article class="post card-panel b-radius10px wow fadeInDown">
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
-          </article>
-        </div>
-      {% endfor %}
-    </div>
   </div>
 </div>
