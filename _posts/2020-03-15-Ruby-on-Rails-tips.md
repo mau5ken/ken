@@ -1,5 +1,7 @@
 ---
 published: true
+thumbnail: >-
+  https://res.cloudinary.com/craftwebs/image/upload/v1579117126/patrick-perkins-3wylDrjxH-E-unsplash_ouuhpx.jpg
 ---
 ## Rails tips
 
