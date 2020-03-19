@@ -435,6 +435,16 @@ footer {
 .devicon-sass-original:hover{
   color: #CC6699;
 }
+/*exploring*/
+.devicon-docker-plain:hover{
+  color: #019BC6;
+}
+.devicon-django-plain:hover{
+  color: #003A2B;
+}
+.devicon-go-plain:hover{
+  color: #6AD7E5;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
