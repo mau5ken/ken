@@ -16,12 +16,14 @@
 
 html {
   font-size: 100%;
+  font-display: auto;
 }
 
 body {
 	background: #e6e6e6;
   font: 18px/1.4 $poppins;
   color: $darkGray;
+  font-display: auto;
 }
 
 
