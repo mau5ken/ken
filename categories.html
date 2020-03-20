@@ -4,7 +4,7 @@ permalink: /categories/
 title: Categories
 ---
 
-<div class="section container">
+<div class="section">
   <div id="archives">
   {% for category in site.categories %}
     <div class="archive-group">
@@ -17,19 +17,21 @@ title: Categories
       </blockquote>
       <a name="{{ category_name | slugize }}"></a>
       
-      {% for post in site.categories[category_name] %}
-        <div class="col l4 m4 s12">
-          <article class="post card b-radius10px wow fadeIn">
-            <div class="card-image waves-effect waves-block waves-light">
-              <a href="{{ site.baseurl }}{{ post.url }}"><img class="equal-img" src="{{ post.thumbnail }}" /></a>
-            </div>
-            <div class="card-content" style="padding-top: 0px;">
-              <h3><a class="blue-grey-text text-darken-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-              <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">leer mas</a></p>
-            </div>
-          </article>
-        </div>
-      {% endfor %}
+      <div class="row">
+        {% for post in site.categories[category_name] %}
+          <div class="col l4 m4 s12">
+            <article class="post card b-radius10px wow fadeIn">
+              <div class="card-image waves-effect waves-block waves-light">
+                <a href="{{ site.baseurl }}{{ post.url }}"><img class="equal-img" src="{{ post.thumbnail }}" /></a>
+              </div>
+              <div class="card-content" style="padding-top: 0px;">
+                <h3><a class="blue-grey-text text-darken-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">leer mas</a></p>
+              </div>
+            </article>
+          </div>
+        {% endfor %}
+      </div>
 
     </div>
   {% endfor %}
