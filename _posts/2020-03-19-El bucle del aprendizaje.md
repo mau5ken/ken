@@ -2,6 +2,7 @@
 published: true
 thumbnail: >-
   https://res.cloudinary.com/craftwebs/image/upload/v1584661750/blekn91890-9-1/blgs-img76/tim-gouw-1K9T5YiZ2WU-unsplash.jpg
+categories: Productividad
 ---
 ![](https://res.cloudinary.com/craftwebs/image/upload/v1584661750/blekn91890-9-1/blgs-img76/tim-gouw-1K9T5YiZ2WU-unsplash.jpg)
 # El bucle del aprendizaje
