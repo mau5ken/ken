@@ -21,9 +21,11 @@ title: Categories
         {% for post in site.categories[category_name] %}
           <div class="col l4 m4 s12">
             <article class="post card b-radius10px wow fadeIn">
-              <div class="card-image waves-effect waves-block waves-light">
-                <a href="{{ site.baseurl }}{{ post.url }}"><img class="equal-img" src="{{ post.thumbnail }}" /></a>
-              </div>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="equal-img" src="{{ post.thumbnail }}" />
+                </div>
+              </a>
               <div class="card-content" style="padding-top: 0px;">
                 <h3><a class="blue-grey-text text-darken-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
                 <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">leer mas</a></p>
