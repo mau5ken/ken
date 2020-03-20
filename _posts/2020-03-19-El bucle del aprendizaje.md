@@ -16,3 +16,14 @@ Tomemos como ejemplo el autor de este blog. Por mucho tiempo me dediqué a estud
 
 
 A lo cual ese miedo o esa desconfianza a veces puede generar que lo que a principio tenías el gusto por aprender, lo terminas dejando. Y ese fue el caso mío, decidía aprender una nueva habilidad y el habito de quererlo aprender bien sin fallar, generaba un poco de desconfianza a lo cual terminaba por dejarlo. Al dejarlo, lo retomaba por tiempo después, haciendo así un ciclo de aprendizaje de la cual a veces nunca sales.
+
+## ¿Sientes que lo que aprendes no lo retienes?
+
+Si bien, todos aprendemos de distintas formas, puede que la forma en la que yo retengo lo que aprendo no sea de mucha ayuda para ti, pero lo que si es que tu mismo descubras la mejor forma de aventarte a hacer las cosas.
+
+
+1. Cuando estás aprendiendo esta bien fallar.
+2. Dedicale un tiempo minimo.
+3. No te presiones por aprender rápido.
+4. Usa herramientas como Google Calendar o Tareas de Google o cualquier otra herramienta para recordarte.
+5. Crea un proyecto personal, avienta a hacer las cosas. Crea un blog, un sitio web, una aplicación, pero hazlo.
