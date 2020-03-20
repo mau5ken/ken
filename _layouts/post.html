@@ -19,7 +19,9 @@ layout: default
   </div>
 
   <div class="date">
+    {% include  share.html %}
     Written on {{ page.date | date: "%B %e, %Y" }}
+    
   </div>
 
   {% include disqus.html %}
