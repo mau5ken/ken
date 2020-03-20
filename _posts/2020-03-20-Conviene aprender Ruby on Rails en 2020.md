@@ -1,5 +1,6 @@
 ---
 published: true
+Title: Conviene aprender Ruby on Rails en 2020?
 ---
 ![](https://res.cloudinary.com/craftwebs/image/upload/v1584661750/blekn91890-9-1/blgs-img76/tim-gouw-1K9T5YiZ2WU-unsplash.jpg)
 # Conviene aprender Ruby on Rails en 2020?
