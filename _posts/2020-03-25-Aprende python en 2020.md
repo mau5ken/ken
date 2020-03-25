@@ -41,3 +41,6 @@ Quieres meterte super de lleno en Python? Desde lo básico hasta conocer fundame
 4. Tkinter - Para crear programas de escritorio
 5. Machine Learning
 6. Flask y mucho más
+
+
+¡Espero que estos recursos te sean de mucha ayuda! Y recuerda manetenerte siempre en constante esfuerzo de seguir aprendiendo.
