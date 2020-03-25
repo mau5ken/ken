@@ -8,8 +8,6 @@ categories: Python
 # Aprende Python en 2020
 ----
 
-Aprender python en 2020
-
 Si eres un desarrollador que quiere aprender python en 2020, entonces estas en el lugar correcto. Te mostraré algunos recursos que no solo te ayudarán a entender Python si no que fortalecerás tus conocimientos en programación. 
 
 Es muy importante conocer las estructuras de datos a la hora de crear lógica, y es que uno de los problemas de desarrolladores Juniors es que para mejorar tus habilidades de programación necesitas saber fundamentos importantes de estructuras de datos.
