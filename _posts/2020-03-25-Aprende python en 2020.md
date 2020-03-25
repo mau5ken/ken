@@ -14,7 +14,7 @@ Si eres un desarrollador que quiere aprender python en 2020, entonces estas en e
 
 Es muy importante conocer las estructuras de datos a la hora de crear lógica, y es que uno de los problemas de desarrolladores Juniors es que para mejorar tus habilidades de programación necesitas saber fundamentos importantes de estructuras de datos.
 
-Problem Solving with Algorithms and Data Structures using Python
+## Problem Solving with Algorithms and Data Structures using Python
 
 ![](https://res.cloudinary.com/craftwebs/image/upload/v1585118492/blekn91890-9-1/blgs-img76/Captura_de_pantalla_2020-03-25_a_la_s_00.38.00.png)
 
