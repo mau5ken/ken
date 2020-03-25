@@ -28,5 +28,20 @@ Este sitio es uno de los mejores que me he encontrado personalmente sobre como a
 
 [Practice Python](https://www.practicepython.org/)
 
-Este sitio sin duda también ha sido de mis favoritos, contiene actividades que van desde básicas hasta avanzados en Python 3. La dinámica consta de que te pone algunos problemas ha resolver usando solamente ciertas características del lenguaje. La idea es poner a tu mente a trabajar de tal forma que puedas crear programas en Python como un pro! 
+Este sitio sin duda también ha sido de mis favoritos, contiene actividades que van desde básicas hasta avanzados en Python 3. La dinámica consta de que te pone algunos problemas ha resolver usando solamente ciertas características del lenguaje. La idea es poner a tu mente a trabajar de tal forma que puedas crear programas en Python como un pro!
 
+----
+
+## Python Basics
+
+![](https://res.cloudinary.com/craftwebs/image/upload/v1585119543/blekn91890-9-1/blgs-img76/Captura_de_pantalla_2020-03-25_a_la_s_00.54.29.png)
+
+https://pythonbasics.org/
+
+Quieres meterte super de lleno en Python? Desde lo básico hasta conocer fundamentos de Machine learning? ¡Pues este sitio es para ti! Consta de temarios como:
+1. Fundamentos de Python
+2. Estructura de datos
+3. Programación Orientado a Objetos
+4. Tkinter - Para crear programas de escritorio
+5. Machine Learning
+6. Flask y mucho más
