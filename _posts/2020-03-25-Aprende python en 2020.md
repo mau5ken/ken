@@ -16,7 +16,7 @@ Es muy importante conocer las estructuras de datos a la hora de crear lógica, y
 
 ![](https://res.cloudinary.com/craftwebs/image/upload/v1585118492/blekn91890-9-1/blgs-img76/Captura_de_pantalla_2020-03-25_a_la_s_00.38.00.png)
 
-[pythonds](https://runestone.academy/runestone/books/published/pythonds/index.html)
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 Este sitio es uno de los mejores que me he encontrado personalmente sobre como aprender python y al mismo tiempo aprender las estructuras de datos. Los creadores  de este sitio te llevan desde conceptos básicos hasta niveles muy expertos sobre como mejorar tus habilidades en programación. Lo mejor de todo es que es una guía muy dinámico el cual podrás aprender directamente en el sitio con ejercicios muy prácticos.
 
