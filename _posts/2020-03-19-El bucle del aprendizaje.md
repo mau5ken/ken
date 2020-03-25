@@ -23,7 +23,7 @@ A lo cual ese miedo o esa desconfianza a veces puede generar que lo que a princi
 Si bien, todos aprendemos de distintas formas, puede que la forma en la que yo retengo lo que aprendo no sea de mucha ayuda para ti, pero lo que si es que tu mismo descubras la mejor forma de aventarte a hacer las cosas.
 
 
-1. Cuando estás aprendiendo esta bien fallar.
+1. Cuando estás aprendiendo está bien fallar.
 2. Dedicale un tiempo minimo.
 3. No te presiones por aprender rápido.
 4. Usa herramientas como Google Calendar o Tareas de Google o cualquier otra herramienta para recordarte.
