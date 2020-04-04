@@ -8,8 +8,6 @@ categories: Rails
 # Aprende Ruby on Rails en 2020
 ----
 
-Aprender Ruby on Rails 2020
-
 Si bien, Ruby on Rails es uno de los frameworks mas cotizados en el mundo, mas que nada por su facilidad de levantar startups en muy poco tiempo y por su facilidad de desarrollo usando su lenguaje nativo de Ruby. Ruby on Rails es también famoso por su cantidad de **starUps** creados con este framework tales como:
 
 1. Twitter
