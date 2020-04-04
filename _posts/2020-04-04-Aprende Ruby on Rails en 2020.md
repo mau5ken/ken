@@ -1,6 +1,6 @@
 ---
 published: false
 ---
-![](https://res.cloudinary.com/craftwebs/image/upload/v1584661750/blekn91890-9-1/blgs-img76/tim-gouw-1K9T5YiZ2WU-unsplash.jpg)
+![](https://res.cloudinary.com/craftwebs/image/upload/v1586028200/blekn91890-9-1/blgs-img76/2785.png)
 # Aprende Ruby on Rails en 2020
 ----
