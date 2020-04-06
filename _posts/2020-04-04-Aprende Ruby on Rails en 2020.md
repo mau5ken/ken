@@ -37,3 +37,17 @@ Link: [https://www.codecademy.com/learn/learn-ruby](https://www.codecademy.com/l
 
 Si ya cuentas con conocimientos previos sobre el desarrollo web y que implica, por ejemplo: Peticiones Http, API’s, Javascript entre otras tecnologías. Aprender Ruby on Rails no te será nada complicado.
 
+![michael-hartl-ruby-on-rails](https://res.cloudinary.com/craftwebs/image/upload/v1586183504/blekn91890-9-1/Captura_de_pantalla_2020-04-06_a_la_s_09.30.31.png)
+
+Este recurso sin dudas es de mis favoritos. Es la guía completa desde nivel 0 hasta nivel maestro o como dice en la portada, **Aprende suficiente Rails para ser peligroso**. Y es que el autor de esta guía - Michael Hartl - te explica absolutamente todo sobre Rails, por ejemplo:
+
+Aprende los comandas de rails en consola
+Crea 3 proyectos reales y desde 0
+Entiende como funciona la web y como funciona en Rails
+Crea usuarios, autenticaciones
+Aprende sobre como tener app segura en Rails
+Crea un Twitter!
+
+Es una guía un poco largo, pero lo que aprenderás al final es sin duda el conocimiento que te preparará para tu próximo empleo con Ruby on Rails!
+
+
