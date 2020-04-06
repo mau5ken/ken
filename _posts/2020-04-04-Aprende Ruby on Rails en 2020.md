@@ -19,8 +19,15 @@ Si bien, Ruby on Rails es uno de los frameworks mas cotizados en el mundo, mas q
 
 Y entre otras miles mas que están alcanzando su fama muy rápidamente por el mundo. Rails es una excelente opción al crear una StarUp ya que no necesitas de mucho **financiamiento** como sería usando otros lenguajes. ¿Porque? Rails se enfoca a que el desarrollador pueda construir su app de forma rápida y sin complicaciones, cuenta con un servidor por default y su uso de la arquitectura **MVC** (Modelo, Vista y Controlador) que al momento de crear tu aplicación con un simple comando en consola te son generadas carpetas para que puedas dedicarte a desarrollar en Rails.
 
-## Te suena interesante? Aprendamos Rails
+# Te suena interesante? Aprendamos Rails!
+
+## 1.  Aprender Ruby primero es esencial 
+
+Para manejar de forma excelente el framework de Rails, es importante aprender su lenguaje base, en este caso hablamos de Ruby. Afortunadamente, existen muchos recursos de los cuales puedes aprender Ruby de forma muy ¡sencilla y Gratis!
 
 
 
+## 2.  Ruby on Rails, tu primera Web App
+
+Si ya cuentas con conocimientos previos sobre el desarrollo web y que implica, por ejemplo: Peticiones Http, API’s, Javascript entre otras tecnologías. Aprender Ruby on Rails no te será nada complicado.
 
