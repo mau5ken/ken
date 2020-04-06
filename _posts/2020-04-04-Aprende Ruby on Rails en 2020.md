@@ -26,7 +26,11 @@ Y entre otras miles mas que están alcanzando su fama muy rápidamente por el mu
 
 Para manejar de forma excelente el framework de Rails, es importante aprender su lenguaje base, en este caso hablamos de Ruby. Afortunadamente, existen muchos recursos de los cuales puedes aprender Ruby de forma muy ¡sencilla y Gratis!
 
-![codecademy-learn-ruby]({{site.baseurl}}/https://res.cloudinary.com/craftwebs/image/upload/v1586182888/blekn91890-9-1/blgs-img76/Captura_de_pantalla_2020-04-06_a_la_s_09.20.26.png)
+![codecademy-learn-ruby](https://res.cloudinary.com/craftwebs/image/upload/v1586182888/blekn91890-9-1/blgs-img76/Captura_de_pantalla_2020-04-06_a_la_s_09.20.26.png)
+
+En Codecademy aprenderás toda la sintaxis de Ruby, al igual que aprenderás de forma dinamica con ejercicios que impulsaran tu lógica y ser un Maestro en Ruby
+
+Link: [https://www.codecademy.com/learn/learn-ruby](https://www.codecademy.com/learn/learn-ruby)
 
 
 ## 2.  Ruby on Rails, tu primera Web App
