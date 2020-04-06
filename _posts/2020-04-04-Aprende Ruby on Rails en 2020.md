@@ -21,6 +21,7 @@ Y entre otras miles mas que están alcanzando su fama muy rápidamente por el mu
 
 # Te suena interesante? Aprendamos Rails!
 
+
 ## 1.  Aprender Ruby primero es esencial 
 
 Para manejar de forma excelente el framework de Rails, es importante aprender su lenguaje base, en este caso hablamos de Ruby. Afortunadamente, existen muchos recursos de los cuales puedes aprender Ruby de forma muy ¡sencilla y Gratis!
