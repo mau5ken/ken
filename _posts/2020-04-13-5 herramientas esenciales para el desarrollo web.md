@@ -49,11 +49,12 @@ Link: [www.cloudinary.com](www.cloudinary.com)
 
 Has buscado soluciones para almacenar imágenes y videos de alta calidad y reutilizar esos archivos en tu sitio web? ¡Cloudinary es para ti! Evita almacenar archivos de forma local en tus proyectos web y almacénalos en un servidor como lo es Cloudinary, de esta forma mejorarás la velocidad de carga de tu página y tendrás respaldado la información de tus proyectos. ¿Que te ofrece Cloudinary?
 
-- 300,000 Imágenes almacenados.
-- 10 GB de Memoria de almacenamiento.
-- Edita fotos y videos.
-- Provee una API para tus proyectos web.
-- Estadísticas de tus archivos.
+1. 300,000 Imágenes almacenados.
+2. 10 GB de Memoria de almacenamiento.
+3. Edita fotos y videos.
+4. Provee una API para tus proyectos web.
+5. Estadísticas de tus archivos.
+
 
 
 # 4 GitKraken | Una interfaz de Git a escala legendaria
