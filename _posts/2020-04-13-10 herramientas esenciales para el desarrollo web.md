@@ -43,14 +43,21 @@ Cuantas veces nos hemos topado con problemas al desarrollar una interfaz? Puede 
 
 
 # 3. Cloudinary | Almacena imágenes, audio y video
+Link: [www.cloudinary.com](www.cloudinary.com)
+
+![](https://res.cloudinary.com/craftwebs/image/upload/v1586764325/Captura_de_pantalla_2020-04-13_a_la_s_02.40.16_bqyu0h.png)
 
 Has buscado soluciones para almacenar imágenes y videos de alta calidad y reutilizar esos archivos en tu sitio web? ¡Cloudinary es para ti! Evita almacenar archivos de forma local en tus proyectos web y almacénalos en un servidor como lo es Cloudinary, de esta forma mejorarás la velocidad de carga de tu página y tendrás respaldado la información de tus proyectos. ¿Que te ofrece Cloudinary?
 
-300,000 Imágenes almacenados.
-10 GB de Memoria de almacenamiento.
-Edita fotos y videos.
-Provee una API para tus proyectos web.
-Estadísticas de tus archivos.
+- 300,000 Imágenes almacenados.
+- 10 GB de Memoria de almacenamiento.
+- Edita fotos y videos.
+- Provee una API para tus proyectos web.
+- Estadísticas de tus archivos.
+
+
+
+
 
 
 
