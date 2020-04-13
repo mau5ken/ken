@@ -56,13 +56,10 @@ Has buscado soluciones para almacenar imágenes y videos de alta calidad y reuti
 - Estadísticas de tus archivos.
 
 
+# 4 GitKraken | Una interfaz de Git a escala legendaria
+Link: [https://www.gitkraken.com/](https://www.gitkraken.com/)
 
+![](https://res.cloudinary.com/craftwebs/image/upload/v1586765202/blekn91890-9-1/blgs-img76/Captura_de_pantalla_2020-04-13_a_la_s_02.57.20.png)
 
-
-
-
-
-
-
-
+Gitkraken te permite visualizar a tus colaborares como a tu proyecto cuando se utiliza este famoso control de versiones como lo es Git. GitKraken es famoso por su interfaz, ya que bastante cálida y bella al momento de trabajar. Posee absolutamente todos las funcionalidades de Git lo cual lo hace mas manejable y rápido de usar cuando se trabaja con equipos grandes. GitKraken es gratis para los repositorios públicos, pero para los privados tendrás que comprar la versión Pro.
 
