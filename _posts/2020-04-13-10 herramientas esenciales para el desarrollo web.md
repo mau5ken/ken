@@ -12,13 +12,6 @@ Alguna vez te haz encontrado en la situación en la que estás en busca de nueva
 
 
 # 1. Draw.io | Crea diagramas y flujos rápidamente
-
-![](https://res.cloudinary.com/craftwebs/image/upload/v1586761848/blekn91890-9-1/blgs-img76/featured-draw.io_-770x480.png)
-
-
-Link: [https://app.diagrams.net/](https://app.diagrams.net/)
-
-# 1. Draw.io | Crea diagramas y flujos rápidamente
 Link: https://app.diagrams.net/
 
 
