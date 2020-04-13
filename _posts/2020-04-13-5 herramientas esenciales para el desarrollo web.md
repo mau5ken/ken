@@ -64,3 +64,19 @@ Link: [https://www.gitkraken.com/](https://www.gitkraken.com/)
 
 Gitkraken te permite visualizar a tus colaborares como a tu proyecto cuando se utiliza este famoso control de versiones como lo es Git. GitKraken es famoso por su interfaz, ya que bastante cálida y bella al momento de trabajar. Posee absolutamente todos las funcionalidades de Git lo cual lo hace mas manejable y rápido de usar cuando se trabaja con equipos grandes. GitKraken es gratis para los repositorios públicos, pero para los privados tendrás que comprar la versión Pro.
 
+
+# 5 Ferdi | Mensajería  en solo lugar
+Link: [https://getferdi.com/](https://getferdi.com/)
+
+![](https://res.cloudinary.com/craftwebs/image/upload/v1586792374/Captura_de_pantalla_2020-04-13_a_la_s_10.39.07_dminte.png)
+
+Alguna vez haz tenido que lidiar con tantas mensajerías al mismo tiempo? **slack**, **telegram**, **whatsApp** o incluso varias pestañas de **Github** o **Gitlab**? Para esto, te traigo **Ferdi**. Ferdi es una aplicación que te integra todas tus aplicaciones de mensajería en un solo lugar, para que mejores tu productividad y evites muchas pestañas de Chrome comiéndose tu RAM. Que podrás hacer con ferdi?
+
+1. Gestiona tu correo y apps de mensajería
+2. Agrega una contraseña a Ferdi para que solo tu puedas acceder 
+3. Notificaciones privadas
+4. Cambia rápidamente a tus aplicaciones
+5. Agrega mas de 100 servicios y sin restricciones y mucho mas.
+
+
+Espero que estas herramientas te sean de mucha utilidad y que mejores tu productividad como desarrollador web. 
