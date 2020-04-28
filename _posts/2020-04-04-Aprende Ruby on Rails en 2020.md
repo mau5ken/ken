@@ -50,4 +50,6 @@ Crea un Twitter!
 
 Es una guía un poco largo, pero lo que aprenderás al final es sin duda el conocimiento que te preparará para tu próximo empleo con Ruby on Rails!
 
+By: ken Sanchez
+
 Link: [https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning#sec-introduction](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning#sec-introduction)
