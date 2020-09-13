@@ -11,15 +11,15 @@ layout: default
     <div class="row">
       <div class="col l6 m6 s12">
         <p>Post anterior</p>
-        {% if page.previous.url %}
-          <a class="prev" href="{{baseurl.previous.url}}"> {{baseurl.previous.title}}</a>
+        {% if baseurl.previous.url %}
+          <a class="prev" href="{{baseurl.previous.url}}"> {{page.previous.title}}</a>
         {% endif %}
       </div>
 
       <div class="col l6 m6 s12">
         <p>Siguiente post</p>
-        {% if page.next.url %}
-          <a class="next" href="{{baseurl.next.url}}">{{baseurl.next.title}} </a>
+        {% if baseurl.next.url %}
+          <a class="next" href="{{baseurl.next.url}}">{{page.next.title}} </a>
         {% endif %}
       </div>
     </div>
