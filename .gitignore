@@ -6,3 +6,5 @@ _site
 .sass-cache
 node_modules
 package.json
+README.md
+LICENSE
